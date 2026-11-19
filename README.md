@@ -25,7 +25,7 @@ I build websites and landing pages for **clinics, healthcare professionals and l
 
 - 🎓 **Systems Analysis and Development** student
 - 💼 Freelance web developer
-- 🌍 Fluent in **English** — I also teach it
+- 🌍 Intermediate **English** — I also teach it to beginners
 - 🎯 Open to **internships** and **junior front-end / full stack** roles (remote or hybrid)
 
 ---
